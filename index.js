@@ -245,4 +245,5 @@ addEventListener('keyup',({key}) =>{
               break    
     }
  }
+//  changing some wrong spellings
 )
